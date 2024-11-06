@@ -1,0 +1,35 @@
+Brand,Sort Code,Account Number,BIN,Account Closed,Is this Acc linked to Sec in RMP,Sec ID,Is Security linked to any other active borrowing,Is all linked borrowings repaid,Type,Is Security good to release
+NMB,123456,32165498,1366598763,Yes,Yes,7234567,No,Yes,Prop/Deb/Misc/Agri,Yes
+RSB,654987,78945612,1597632486,Yes,Yes,9089432,No,Yes,Prop/Deb/Misc/Agri,No
+NMB,123478,32165169,1366556159,Yes,Yes,4906444,No,Yes,Prop/Deb/Misc/Agri,Yes
+RSB,654987,8765324,1597632486,Yes,Yes,1745540,No,Yes,Prop/Deb/Misc/Agri,No
+RSB,654987,11533211,1597632486,Yes,Yes,1327242,No,Yes,Prop/Deb/Misc/Agri,No
+NMB,365478,65478789,1965486312,Yes,Yes,2163839,No,Pending at Draw down stage,Prop/Deb/Misc/Agri,No
+RSB,603724,32145698,1233658666,Yes,Yes,2582138,Yes,Yes,Prop/Deb/Misc/Agri,Yes
+RSB,653485,11873935,1234952001,Yes,Yes,3000437,Yes,Yes,Prop/Deb/Misc/Agri,No
+NMB,703245,13420484,1052965091,Yes,Yes,3418736,Yes,Yes,Prop/Deb/Misc/Agri,Yes
+RSB,753006,67853575,1916156416,Yes,Yes,3837034,Yes,Yes,Prop/Deb/Misc/Agri,No
+RSB,802766,10118666,1976136896,Yes,Yes,4255333,Yes,Yes,Prop/Deb/Misc/Agri,No
+RSB,852527,45006893,1853334659,Yes,Yes,4673632,Yes,Pending at Draw down stage,Prop/Deb/Misc/Agri,No
+RSB,902287,10193245,1082994658,Yes,Yes,5091931,Yes,No,Any Security,No
+RSB,952048,54789636,1534975563,Yes,Yes,5510230,No,Yes,GTEE/LifePolicy/Boats/Charge on cash/Steps on Rights,Yes
+RSB,189758,12345678,1534975563,Yes,Yes,5928528,No,Yes,GTEE/LifePolicy/Boats/Charge on cash/Steps on Rights,Yes
+RSB,194725,12456498,1534975563,Yes,Yes,6346827,No,Yes,GTEE/LifePolicy/Boats/Charge on cash/Steps on Rights,Yes
+RSB,199692,64897898,1534975563,Yes,Yes,6765126,No,Yes,GTEE/LifePolicy/Boats/Charge on cash/Steps on Rights,No
+NMB,204659,16666877,1234996544,Yes,Yes,7183425,No,Pending at Draw down stage,GTEE/LifePolicy/Boats/Charge on cash/Steps on Rights,No
+NMB,209626,66699874,1934358869,Yes,Yes,7601724,Yes,Pending at Draw down stage,GTEE/LifePolicy/Boats/Charge on cash/Steps on Rights,No
+NMB,214593,4486653,1554998763,Yes,Yes,8020022,Yes,Yes,GTEE/LifePolicy/Boats/Charge on cash/Steps on Rights,Yes
+NMB,219560,11234568,1554998763,Yes,Yes,8438321,Yes,Yes,GTEE/LifePolicy/Boats/Charge on cash/Steps on Rights,Yes
+NMB,224527,66589462,1554998763,Yes,Yes,8856620,Yes,Yes,GTEE/LifePolicy/Boats/Charge on cash/Steps on Rights,Yes
+NMB,229494,33215685,1554998763,Yes,Yes,9274919,Yes,Yes,GTEE/LifePolicy/Boats/Charge on cash/Steps on Rights,No
+RSB,234461,12435876,1416948325,Yes,Not linked to any security in RMP,9693218,No,Yes,Prop/Deb/Misc/Agri,Yes
+RSB,239428,13332588,1597632486,Yes,Not linked to any security in RMP,1011151,No,Yes,Prop/Deb/Misc/Agri,No
+NMB,244395,32165169,1366556159,Yes,Not linked to any security in RMP,1052981,No,Yes,Prop/Deb/Misc/Agri,Yes
+RSB,249362,78945612,1597632486,Yes,Not linked to any security in RMP,1094811,No,Yes,Prop/Deb/Misc/Agri,No
+RSB,254329,78865255,1597632486,Yes,Not linked to any security in RMP,1136641,No,Yes,Prop/Deb/Misc/Agri,No
+NMB,259296,86662248,1113549854,Yes,Not linked to any security in RMP,1178471,No,Yes,GTEE/LifePolicy/Boats/Charge on cash/Steps on Rights,Yes
+NMB,264263,81234568,1113549854,Yes,Not linked to any security in RMP,1220301,No,Yes,GTEE/LifePolicy/Boats/Charge on cash/Steps on Rights,Yes
+NMB,269230,65879561,1113549854,Yes,Not linked to any security in RMP,1262130,No,Yes,GTEE/LifePolicy/Boats/Charge on cash/Steps on Rights,Yes
+NMB,274197,41746620,1113549854,Yes,Not linked to any security in RMP,1303960,No,Yes,GTEE/LifePolicy/Boats/Charge on cash/Steps on Rights,No
+RSB,279164,70435951,1904248596,Yes,No Securities in RMP,NA,NA,NA,NA,No
+NMB,284131,55605354,1033324498,Yes,No RMP Connection,NA,NA,NA,NA,No
